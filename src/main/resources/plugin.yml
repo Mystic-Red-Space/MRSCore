@@ -1,0 +1,5 @@
+name: MRSCore
+version: ${project.version}
+main: mysticrs.mrscore.MRSCore
+api-version: 1.13
+prefix: MRSCore
